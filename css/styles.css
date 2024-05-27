@@ -1,0 +1,36 @@
+element.style {
+    flex-basis: 18%
+    flex-grow: 2;
+}
+
+.container {
+display: flex;
+padding: 50px;
+box-sizing: border-box;
+background-color: aliceblue;
+gap: 20px;
+flex-direction:row;
+flex-wrap: wrap;
+height: 420px;
+align-items: flex-start
+justify_contener
+flex-grow: 3;
+
+}
+
+.container article {
+    background-color: brown;
+    padding: 10px;
+    box-sizing: border-box;
+   //* flex-basis: calc(33.33% - 20px);
+
+}
+
+
+
+
+
+
+
+
+
